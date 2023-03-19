@@ -1,3 +1,2 @@
-User Registration 1.13 (1.12+) (ID : D0202003)
-- Send an email to the user for verification.
-- Upon successful verification, direct the user to the Welcome Page. 
+User Registration 1.14 (1.13+) (ID : D0202004)
+- Security handling needed for preventing DDOS (denial of service attacks)
