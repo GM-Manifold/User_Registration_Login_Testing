@@ -1,3 +1,3 @@
-Sessions 5.11
-- Each login session should be recorded. 
-- Logs should be available for audit. 
+Sessions 5.12 (5.11+)
+- Session timeout, if not active for more than 60 minutes.
+- Make the session duration of the lock out variable and admin controlled. 
