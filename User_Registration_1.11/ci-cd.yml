@@ -1,0 +1,9 @@
+name: User Registration-1.11 CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
