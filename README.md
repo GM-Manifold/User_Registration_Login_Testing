@@ -1,5 +1,3 @@
-# User_Registration_Login_Testing
-
 User Registration 1.11 - (ID : D0202001)
 - Email Registration
 - Password Generation
