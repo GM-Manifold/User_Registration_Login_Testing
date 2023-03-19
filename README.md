@@ -1,8 +1,7 @@
 # User_Registration_Login_Testing
 
-User Registration 1.11 - (ID : D0202001)
-- Email Registration
-- Password Generation
-- Password Confirmation
-- New User Registration
-- Upon successful verification, direct the user to the Welcome Page. 
+User Registration 1.12 - (1.11+) (ID : D0202002)
+- Email Registration (check whether the email is valid using a regular expression)
+- Password Generation with the ability to show to the user the strength the password (weak, medium, strong)
+- New User Registration (User ID should a 10 digit alphanumeric number)
+
