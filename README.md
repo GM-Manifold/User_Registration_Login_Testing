@@ -1,2 +1,4 @@
-User Registration 1.14 (1.13+) (ID : D0202004)
-- Security handling needed for preventing DDOS (denial of service attacks)
+User Login 2.11
+- Create a login functionality  
+- Upon successful login, direct the user to the Welcome Page.
+- Upon unsuccessful attempts to login, provide appropriate messages to the user. 
