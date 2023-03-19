@@ -1,4 +1,3 @@
-User Login 2.11
-- Create a login functionality  
-- Upon successful login, direct the user to the Welcome Page.
-- Upon unsuccessful attempts to login, provide appropriate messages to the user. 
+User Login 2.12 (2.11+)
+- Upon 3 unsuccessful attempts, lock out the user for 10 minutes.
+- Make the number of attempts and duration of the lock out variable and admin controlled. 
